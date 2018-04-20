@@ -1,0 +1,5 @@
+4/19/2018 7:00pm
+
+This is the first commit to the repository learning-to-bot. I really need to fix the privliges on the EC2. I hate sudo.
+
+~Dylan Hampton
